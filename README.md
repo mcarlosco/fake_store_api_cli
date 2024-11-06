@@ -4,7 +4,7 @@ CLI desarrollada con [Dart](https://dart.dev/).
 
 > Este repositorio es personal y resuelve la Fase 2 de la Ruta de Crecimiento Práctica del Chapter Mobile.
 
-## Sobre [`fun_pro`](https://github.com/mcarlosco/fake_store_api_cli/tree/main/lib/src/fake_store_api)
+## Sobre [`fun_pro`](https://github.com/mcarlosco/fake_store_api_cli/tree/main/lib/src/fun_pro)
 
 Nombre compuesto por dos términos en inglés, que significa "profesional de la diversión". Aunque coincidencialmente, en el contexto de este proyecto, "fun" es una abreviatura de _functional_ y "pro" es una abreviatura de _programming_...
 
