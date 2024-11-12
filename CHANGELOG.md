@@ -1,3 +1,3 @@
 ## 1.0.0
 
-- Initial version.
+- Get products, categories, or users, all or one at time.
