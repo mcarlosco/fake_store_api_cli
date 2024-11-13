@@ -2,6 +2,8 @@
 
 CLI developed with [Dart](https://dart.dev/).
 
+> Este repositorio es personal y resuelve la Fase 2 de la Ruta de Crecimiento Práctica del Chapter Mobile.
+
 ## Help
 
 ### 🛍️ Products
